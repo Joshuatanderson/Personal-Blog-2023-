@@ -1,28 +1,35 @@
-import React from 'react';
-import glob from 'glob';
-import { BlogPost } from '../../components/BlogPost';
-import { loadPost } from '../../loader';
+import React from 'react'
+import fs from 'fs'
+import path from 'path'
+
+import { BlogPost } from '../../components/BlogPost'
+import { loadPost } from '../../loader'
 
 function Post(props: any) {
-  const { post } = props;
-  return <BlogPost post={post} />;
+    const { post } = props
+    return <BlogPost post={post} />
 }
 
-export const getStaticPaths = () => {
-  const blogs = glob.sync('./md/blog/*.md');
-  const slugs = blogs.map((file: string) => {
-    const popped = file.split('/').pop();
-    if (!popped) throw new Error(`Invalid blog path: ${file}`);
-    return popped.slice(0, -3).trim();
-  });
+export const getStaticPaths = async () => {
+    try {
+        const blogsDirectory = path.join(process.cwd(), './md/blog')
+        const filenames = fs.readdirSync(blogsDirectory)
 
-  const paths = slugs.map((slug) => `/blog/${slug}`);
-  return { paths, fallback: false };
-};
+        const slugs = filenames.map((filename) => filename.replace('.md', ''))
+
+        console.log(slugs)
+        const paths = slugs.map((slug) => ({ params: { blog: slug } }))
+
+        return { paths, fallback: false }
+    } catch (error) {
+        console.error('Error generating static paths', error)
+        return { paths: [], fallback: false }
+    }
+}
 
 export const getStaticProps = async ({ params }: any) => {
-  const post = await loadPost(`blog/${params.blog}.md`);
-  return { props: { post } };
-};
+    const post = await loadPost(`blog/${params.blog}.md`)
+    return { props: { post } }
+}
 
-export default Post;
+export default Post
