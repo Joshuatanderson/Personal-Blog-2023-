@@ -9,6 +9,9 @@ export interface ThemeContextType {
 }
 
 // Create context with the type and initial value
-export const ThemeContext = createContext<ThemeContextType | null>(null)
+export const ThemeContext = createContext<ThemeContextType>({
+    theme: 'light',
+    toggleTheme: () => {},
+})
 
 export default ThemeContext
