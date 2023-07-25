@@ -14,13 +14,15 @@ export const Markdown = ({ source }: MarkdownProps) => {
                 components={{
                     code: ({ node, inline, className, children, ...props }) => {
                         const match = /language-(\w+)/.exec(className || '')
-                        return !inline && match ? (
+                        return !inline ? (
                             <Code
-                                language={match[1]}
+                                language={match ? match[1] : 'typescript'}
                                 value={String(children)}
                             />
                         ) : (
-                            <code className={className} {...props} />
+                            <code className={className} {...props}>
+                                {children}
+                            </code>
                         )
                     },
                 }}
