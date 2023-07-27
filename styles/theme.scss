@@ -5,8 +5,37 @@ $text: #333;
 // COLORS
 $white: #fff;
 $light-grey: #eee;
-$black: #00000030;
+$black: #000;
+$dark: #302a4f;
+$light: #eee6fe;
 
 // LINKS
 $visited: purple;
 $hover: #c00;
+
+html.dark,
+body.dark {
+    color: $light;
+    background-color: $dark;
+    blockquote {
+        color: $dark;
+    }
+}
+
+html.light,
+body.light {
+    color: $dark;
+    background-color: $light;
+
+    code {
+        color: $light;
+        background-color: $dark;
+    }
+}
+
+// cool four color scheme
+
+// #425faf
+// #ecad00
+// #d67684
+// #f3ebd9

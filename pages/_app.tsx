@@ -9,15 +9,16 @@ import ThemeProvider from '../contexts/theme/ThemeProvider'
 const App: React.FC = ({ Component, pageProps }: any) => {
     return (
         <ThemeProvider>
-            <div className="container">
-                <Head>
-                    {globals.googleAnalyticsId && (
-                        <script
-                            async
-                            src={`https://www.googletagmanager.com/gtag/js?id=${globals.googleAnalyticsId}`}
-                        ></script>
-                    )}
-                    {/* {globals.googleAnalyticsId && (
+            <div className="app">
+                <div className="container">
+                    <Head>
+                        {globals.googleAnalyticsId && (
+                            <script
+                                async
+                                src={`https://www.googletagmanager.com/gtag/js?id=${globals.googleAnalyticsId}`}
+                            ></script>
+                        )}
+                        {/* {globals.googleAnalyticsId && (
           <script dangerouslySetInnerHTML={{
               __html: `
             window.dataLayer = window.dataLayer || [];
@@ -28,10 +29,11 @@ const App: React.FC = ({ Component, pageProps }: any) => {
             `,
           }}></script>
         )} */}
-                </Head>
-                <Header />
-                <Component {...pageProps} />
-                <Footer />
+                    </Head>
+                    <Header />
+                    <Component {...pageProps} />
+                    <Footer />
+                </div>
             </div>
         </ThemeProvider>
     )

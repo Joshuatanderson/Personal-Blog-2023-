@@ -17,6 +17,15 @@ const ThemeProvider = ({ children }: ThemeProviderProps) => {
         setTheme(localTheme ?? (prefersDark ? 'dark' : 'light'))
     }, [])
 
+    useEffect(() => {
+        if (typeof document === 'undefined') {
+            return
+        }
+
+        const root = document.documentElement
+        root.setAttribute('class', theme === 'dark' ? 'dark' : 'light')
+    }, [theme])
+
     const toggleTheme = () => {
         setTheme((prevTheme) => (prevTheme === 'light' ? 'dark' : 'light'))
     }
