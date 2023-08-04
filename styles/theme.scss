@@ -1,4 +1,4 @@
-$primary: #302a4f;
+$primary: #5a43d0;
 $primary-variant: #201a3a;
 $text: #333;
 
@@ -6,19 +6,24 @@ $text: #333;
 $white: #fff;
 $light-grey: #eee;
 $black: #000;
-$dark: #302a4f;
+$dark: #2c283b;
 $light: #eee6fe;
 
 // LINKS
-$visited: #5a43d0;
+$visited: #b0a0ff;
 $hover: #c00;
 
 html.dark,
 body.dark {
     color: $light;
     background-color: $dark;
+
     blockquote {
         color: $dark;
+    }
+    code {
+        color: $dark;
+        background-color: $light;
     }
 }
 
@@ -26,16 +31,17 @@ html.light,
 body.light {
     color: $dark;
     background-color: $light;
+    .header {
+        a {
+            color: $light;
+        }
+    }
 
     code {
         color: $light;
         background-color: $dark;
     }
+    a {
+        color: $primary;
+    }
 }
-
-// cool four color scheme
-
-// #425faf
-// #ecad00
-// #d67684
-// #f3ebd9
