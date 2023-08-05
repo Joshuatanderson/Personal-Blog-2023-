@@ -5,7 +5,7 @@ import { PostData, loadBlogPosts, loadMarkdownFile } from '../loader'
 import { PostCard } from '../components/PostCard'
 
 const Home = (props: {
-    introduction: string
+    home: string
     features: string
     readme: string
     posts: PostData[]
@@ -19,26 +19,18 @@ const Home = (props: {
 
             <div className="introduction">
                 <h1>Home page</h1>
-                <Markdown source={props.introduction} />
+                <h2>Posts</h2>
+                <Markdown source={props.home} />
             </div>
 
-            <div className="section">
+            {/* <div className="section">
                 <h2>Features</h2>
                 <div className="medium-wide">
                     <Markdown source={props.features} />
                 </div>
-            </div>
+            </div> */}
 
             <div className="section">
-                <h2>My blog posts</h2>
-                <p>
-                    This section demonstrates the power of dynamic imports.
-                    Every Markdown file under <code>/md/blog</code> is
-                    automatically parsed into a structured TypeScript object and
-                    available in the <code>props.posts</code> array. These blog
-                    post "cards" are implemented in the
-                    <code>/components/PostCard.tsx</code> component.
-                </p>
                 <div className="post-card-container">
                     {props.posts.map((post, j) => {
                         return <PostCard post={post} key={j} />
@@ -46,7 +38,7 @@ const Home = (props: {
                 </div>
             </div>
 
-            <div className="section">
+            {/* <div className="section">
                 <h2>Testimonials</h2>
                 <blockquote>
                     <p>
@@ -63,7 +55,7 @@ const Home = (props: {
                         </a>
                     </p>
                 </blockquote>
-            </div>
+            </div> */}
 
             {/* <div className="section">
         <h2>README.md</h2>
@@ -84,13 +76,13 @@ const Home = (props: {
           <Markdown source={props.readme} />
         </div>
       </div> */}
-
+            {/* 
             <div className="section alternate">
                 <h2 className="centered">Get started</h2>
                 <a href="https://github.com/colinhacks/devii">
                     <button className="fork-button">Go to README</button>
                 </a>
-            </div>
+            </div> */}
         </div>
     )
 }
@@ -98,7 +90,7 @@ const Home = (props: {
 export default Home
 
 export const getStaticProps = async () => {
-    const introduction = await loadMarkdownFile('introduction.md')
+    const home = await loadMarkdownFile('home.md')
     const features = await loadMarkdownFile('features.md')
     const readmeFile = await import(`../${'README.md'}`)
     const readme = readmeFile.default
@@ -108,7 +100,7 @@ export const getStaticProps = async () => {
     await generateRSS(posts)
 
     const props = {
-        introduction: introduction.contents,
+        home: home.contents,
         features: features.contents,
         readme: readme,
         posts,
