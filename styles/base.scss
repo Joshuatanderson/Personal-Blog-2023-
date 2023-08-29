@@ -1,5 +1,8 @@
 @import './theme.scss';
 
+$mobile-width: 500px;
+$desktop-width: 1000px;
+
 /* reset */
 html,
 body,
@@ -82,7 +85,10 @@ blockquote {
     background-color: $light-grey;
     border-radius: 4px;
     width: 100%;
-    max-width: 550px;
+    @media screen and (max-width: 600px) {
+        max-width: $mobile-width;
+    }
+    max-width: $desktop-width;
 }
 
 blockquote p {
@@ -175,7 +181,10 @@ a:visited {
 }
 
 .section .narrow {
-    max-width: 550px;
+    @media screen and (max-width: 600px) {
+        max-width: $mobile-width;
+    }
+    max-width: $desktop-width;
 }
 
 .section h1,
@@ -186,11 +195,17 @@ a:visited {
 .section h6,
 .section p {
     width: 100%;
-    max-width: 550px;
+    @media screen and (max-width: 600px) {
+        max-width: $mobile-width;
+    }
+    max-width: $desktop-width;
 }
 
 .medium-wide {
-    max-width: 550px;
+    @media screen and (max-width: 600px) {
+        max-width: $mobile-width;
+    }
+    max-width: $desktop-width;
 }
 
 hr {
@@ -215,7 +230,10 @@ hr {
 
 /* page areas */
 .introduction {
-    max-width: 550px;
+    @media screen and (max-width: 600px) {
+        max-width: $mobile-width;
+    }
+    max-width: $desktop-width;
     margin: auto;
 }
 
@@ -234,7 +252,10 @@ hr {
 
 .author-container {
     width: 100%;
-    max-width: 550px;
+    @media screen and (max-width: 600px) {
+        max-width: $mobile-width;
+    }
+    max-width: $desktop-width;
     margin: 0px;
     padding: 0px;
 }
@@ -278,7 +299,7 @@ hr {
 
 .blog-post-image {
     width: 100%;
-    max-width: 1600px;
+    // max-width: 1600px;
     max-height: 350px;
     @media screen and (max-width: 600px) {
         max-height: 200px;
@@ -289,7 +310,10 @@ hr {
 
 .blog-post-title {
     width: 100%;
-    max-width: 550px;
+    @media screen and (max-width: 600px) {
+        max-width: $mobile-width;
+    }
+    max-width: $desktop-width;
     margin-bottom: 15px;
     padding: 40px 10px;
 }
@@ -312,7 +336,10 @@ hr {
 
 .blog-post-content {
     width: 100%;
-    max-width: 550px;
+    @media screen and (max-width: 600px) {
+        max-width: $mobile-width;
+    }
+    max-width: $desktop-width;
     padding: 0px 10px;
 }
 
