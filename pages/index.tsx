@@ -13,7 +13,7 @@ const Home = (props: {
     return (
         <div className="content">
             <Head>
-                <title>Uncorked Thoughts</title>
+                <title>Chaotic Compendium</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 

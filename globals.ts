@@ -1,6 +1,6 @@
 export namespace globals {
     export const yourName = 'Joshua Anderson'
-    export const siteName = 'Uncorked thoughts'
+    export const siteName = 'Sinful Stardust'
     export const siteDescription = 'I write about research rabbit holes'
     export const siteCreationDate = 'July 23, 2023'
     export const twitterHandle = '@joshuaa_eth'
