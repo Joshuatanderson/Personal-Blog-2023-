@@ -6,7 +6,7 @@ author: Joshua Anderson
 authorPhoto: /img/joshua.jpeg
 tags:
     - set up
-canonicalUrl: https://scribedbystardust.com//tardust.comblog/hello-world
+canonicalUrl: https://scribedbystardust.com/blog/hello-world
 ---
 
 I have a new blog! Looking forward to customizing it, and making it my own.

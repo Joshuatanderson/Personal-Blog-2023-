@@ -7,7 +7,7 @@ authorPhoto: /img/joshua.jpeg
 thumbnailPhoto: /img/thousand-vampire.png
 bannerPhoto: /img/thousand-vampire.png
 tags:
-canonicalUrl: https://scribedbystardust.com///blog/become-a-thousand-year-old-vampire
+canonicalUrl: https://scribedbystardust.com/blog/become-a-thousand-year-old-vampire
 ---
 
 I want to be a 1000 year old vampire, and get there as quickly as possible.
