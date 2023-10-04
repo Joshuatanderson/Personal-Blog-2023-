@@ -10,7 +10,7 @@ tags:
 authorPhoto: /img/profile.jpg
 bannerPhoto: /img/brook.jpg
 thumbnailPhoto: /img/brook.jpg
-canonicalUrl: https://devii.dev/blog/devii
+canonicalUrl: https://scribedbystardust.com//blog/devii
 ---
 
 This page is built with Devii! Check out the source code for this under `/md/blog/test.md`.

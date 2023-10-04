@@ -7,7 +7,7 @@ authorPhoto: /img/joshua.jpeg
 thumbnailPhoto: /img/the-llama-god.png
 bannerPhoto: /img/the-llama-god.png
 tags:
-canonicalUrl: https://devii.dev/blog/the-Llama-god-1
+canonicalUrl: https://scribedbystardust.com/blog/the-Llama-god-1
 ---
 
 As an experiment at the intersection of sociology and AI, I want to try finetuning an AI model on the world's religious texts, and seeing how humans (and potentially other non-finetuned AI instances in an AI village context) respond to the "LLAMA God" that it embodies.

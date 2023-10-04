@@ -7,7 +7,7 @@ authorPhoto: /img/joshua.jpeg
 thumbnailPhoto: /img/hnefatafl-1-carravagio.png
 bannerPhoto: /img/hnefatafl-1-carravagio.png
 tags:
-canonicalUrl: https://devii.dev/blog/the-hnefatafl-saga-1
+canonicalUrl: https://scribedbystardust.com//tardust.comtardust.comblog/the-hnefatafl-saga-1
 ---
 
 _(Note - this is a post recovered from my last personal blog - sadly, images of the program were lost in the transition, but I'm keeping the text for posterity. Because of that, the photos for Hnefatafl are from Midjourney instead)_

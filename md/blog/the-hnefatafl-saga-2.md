@@ -7,7 +7,7 @@ authorPhoto: /img/joshua.jpeg
 thumbnailPhoto: /img/hnefatafl-dali.png
 bannerPhoto: /img/hnefatafl-dali.png
 tags:
-canonicalUrl: https://devii.dev/blog/the-hnefatafl-saga-2
+canonicalUrl: https://scribedbystardust.com//tardust.comblog/the-hnefatafl-saga-2
 ---
 
 When I last published an update on this project, the UI was (mostly) finished. But the rules engine was basically non-existent. Fast forward a few weeks, and I now have a functioning game!

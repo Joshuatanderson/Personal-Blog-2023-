@@ -7,7 +7,7 @@ authorPhoto: /img/joshua.jpeg
 thumbnailPhoto: /img/sunrise_0.png
 bannerPhoto: /img/sunrise_0.png
 tags:
-canonicalUrl: https://devii.dev/blog/horizontal-v-vertical-morality
+canonicalUrl: https://scribedbystardust.com//tardust.comblog/horizontal-v-vertical-morality
 ---
 
 ## What makes morality?
