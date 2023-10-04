@@ -5,4 +5,4 @@ This site is for ramblings, musings, research, and anything I find interesting. 
 
 ## Topics
 
-For now, this blog just covers anything I find interesting. No promises. Right now, that's likely to be related to my journey on unpacking my evangelical upbringing, delightful rabbit holes, and software engineering.
+For now, this blog just covers anything I find interesting. No promises. Right now, that's likely to be related to my personal journey, delightful rabbit holes, and software engineering.
