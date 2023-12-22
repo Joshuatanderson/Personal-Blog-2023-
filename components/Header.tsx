@@ -8,7 +8,9 @@ export const Header: React.FC = () => {
 
     return (
         <div className="header">
-            <a href="/">{globals.siteName}</a>
+            <strong>
+                <a href="/">{globals.siteName}</a>
+            </strong>
             <div className="flex-spacer" />
             <a
                 href="https://github.com/Joshuatanderson?tab=repositories"
