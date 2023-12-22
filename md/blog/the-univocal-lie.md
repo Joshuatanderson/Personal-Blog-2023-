@@ -71,11 +71,16 @@ It is neither helpful nor intellectually honest to insist that all authors, fact
 ### Sources
 
 [1](https://www.christianitytoday.com/ct/2022/february-web-only/bible-reference-tool-old-testament-scripture-interpretation.html) Christianity Today, 2022
+
 [2]Dan McClellan, "On The Myth of Scriptural Literalism", (https://danielomcclellan.wordpress.com/tag/univocal/)
+
 [3] Matthew 27:5-8
+
 [4] Acts 1:18-19
 
 [5] Answers in Genesis, "How Did Judas Die?" https://answersingenesis.org/contradictions-in-the-bible/how-did-judas-die/
+
 [6] Moss, C 2019, 'A note on the death of Judas in Papias', New Testament Studies, vol. 65, no. 3, pp. 388-397.
 https://doi.org/10.1017/S0028688519000080 https://pure-oai.bham.ac.uk/ws/files/77433625/Moss_A_note_on_the_death_of_Judas_in_Papias_New_Testament_Studies_2019.pdf
+
 [7] [Psalm 82](https://app.logos.com/books/LLS%3A1.0.710/references/bible%2Besv.19.82.2?registration_source_host=biblia.com&tile=left&zzls=2eMKcTcKNwrEOw4IwEEPDv8OFc8KlwqprNgQrE2zChMKhasKvw61JScKuJMOXIhTDpcOfCcKdw5jCrGfDmS9jwqfCmFgCTMOXYMOtA8K5w5PCusKew4XDuz7CjAnDpsKRK8OUJcO0wp5gw5DCqsKIS20QwqXChAbCr8KNw6IHJsOjAMO3w5rDnUjClcODXMKHw4gWScKiWhgLLyNPTMOjwoXDkmDDkVjDrEzDr8Krwox0wrTDk8OmwpxFwqnCh8OKw67Cp8KJPC%2FCilLCmsKMflDDnivDk8K4w5HCn3DCjSzCkcK1w6bCrsKUZ8O5AgrDoEXCiQ%3D%3D)
