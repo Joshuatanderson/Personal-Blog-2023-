@@ -4,8 +4,8 @@ published: false
 datePublished: 1703201916193
 author: Joshua Anderson
 authorPhoto: /img/joshua.jpeg
-thumbnailPhoto: /img/gaiapunk-manifesto.png
-bannerPhoto: /img/gaiapunk-manifesto.png
+thumbnailPhoto: /img/gecko_prophet.png
+bannerPhoto: /img/gecko_prophet.png
 tags:
 canonicalUrl: https://scribedbystardust.com/blog/the-univocal-lie
 ---
