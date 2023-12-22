@@ -1,6 +1,6 @@
 ---
 title: The Univocal Lie
-published: false
+published: true
 datePublished: 1703201916193
 author: Joshua Anderson
 authorPhoto: /img/joshua.jpeg
