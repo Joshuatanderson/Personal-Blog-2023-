@@ -52,3 +52,8 @@ Melee 💥 in Kashmir
 🇷🇺 Invades Again
 🇷🇺 / 🇺🇦 Peace 🕊️
 🇵🇸 Annexation
+
+### My card
+
+Just in case, and so I can point to this at the beginning of 2025:
+![](https://scribedbystardust.com/img/2024-bingo-card-personal.png)
