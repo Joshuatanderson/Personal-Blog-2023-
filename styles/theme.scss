@@ -25,6 +25,9 @@ body.dark {
         color: $dark;
         background-color: $light;
     }
+    a {
+        color: $visited;
+    }
 }
 
 html.light,

@@ -1,5 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Scribed by Stardust]]></title><description><![CDATA[I write about research rabbit holes]]></description><link>https://joshuaa.dev</link><image><url>https://joshuaa.dev/icon.png</url><title>Scribed by Stardust</title><link>https://joshuaa.dev</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 21 Dec 2023 23:51:41 GMT</lastBuildDate><atom:link href="https://joshuaa.dev/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 23 Jul 2023 05:00:00 GMT</pubDate><copyright><![CDATA[2023 Joshua Anderson]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[joshuatanderson1@gmail.com]]></managingEditor><webMaster><![CDATA[joshuatanderson1@gmail.com]]></webMaster><ttl>60</ttl><item><title><![CDATA[Univocality]]></title><description><![CDATA[<p><a href="https://www.christianitytoday.com/ct/2022/february-web-only/bible-reference-tool-old-testament-scripture-interpretation.html">"Scripture interprets scripture"</a> is a popular claim in American Evangelical circles. It is also a lie. It's based on an assumption called univocality, which is very commonly made, but promotes an understanding of the texts that comprise the bible that goes against how the texts were intended by their authors, and denies them their own voices, in favor of centering the cultural biases of those doing the harmonizing.</p>
-<h2 id="whatisunivocality">What is univocality?</h2>]]></description><link>https://joshuaa.dev/blog/the-univocal-lie</link><guid isPermaLink="true">https://joshuaa.dev/blog/the-univocal-lie</guid><dc:creator><![CDATA[Joshua Anderson]]></dc:creator><pubDate>Thu, 21 Dec 2023 23:38:36 GMT</pubDate></item><item><title><![CDATA[A Gaiapunk Manifesto]]></title><description><![CDATA[<h2 id="gaiapunk">Gaiapunk</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Scribed by Stardust]]></title><description><![CDATA[I write about research rabbit holes]]></description><link>https://joshuaa.dev</link><image><url>https://joshuaa.dev/icon.png</url><title>Scribed by Stardust</title><link>https://joshuaa.dev</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 05 Jan 2024 23:43:15 GMT</lastBuildDate><atom:link href="https://joshuaa.dev/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 23 Jul 2023 05:00:00 GMT</pubDate><copyright><![CDATA[2024 Joshua Anderson]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[joshuatanderson1@gmail.com]]></managingEditor><webMaster><![CDATA[joshuatanderson1@gmail.com]]></webMaster><ttl>60</ttl><item><title><![CDATA[2024 Bingo Cards]]></title><description><![CDATA[<h1 id="imade2024bingocards">I made 2024 Bingo Cards</h1>
+<p><a href="https://www.canva.com/design/DAF3W51c8sk/1xS5xaLYsa5zDiSiXU8STQ/edit?utm_content=DAF3W51c8sk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">The Cards.</a></p>
+<p>Now is the time to make your cards, and hope we don't get a bingo blackout on 2024.</p>
+<p>If you want some, grab some. I'm sharing my template here. Feel free to copy, steal, or fork this in any way you like.</p>
+<p>May the new year be glorious, and may few squares be ticked.</p>
+<h2 id="ifyouwishtoforkthis">If you wish to fork this:</h2>
+<p><a href="https://www.canva.com/design/DAF3W51c8sk/1xS5xaLYsa5zDiSiXU8STQ/edit?utm_content=DAF3W51c8sk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Here are the cards.</a></p>
+<p>I made this list using <a href="https://canva.com">canva</a>, and the "Bingo Cards" plugin on that service. I generated a few cards, but feel free to add more. Grab one, and if you know me, text me a picture of your card! Together, we'll celebrate (or not) how wild the new year was.</p>
+<p>Also, be nice, and don't create anything hateful or in bad taste, or I'll have to restrict access to this.</p>
+<h2 id="fulllistofcurrentoptionsifyourecurious">Full list of current options, if you're curious</h2>
+<p>New Pope 🔄
+Pandemic ☣️ 1M+ 💀
+Biden 🚫 Frontrunner
+Aliens Confirmed 👽
+Trump Jailed 🔒
+Santos Elected 🎭
+WW3 💥
+🌎 Leader 💀
+Balkan war 💥
+AI Cult 🤖🙏
+Dwayne 🪨 Candidacy 🇺🇸
+BP-style Disaster 🛢️🐦
+New Island 🌋
+Astronaut Explosion 💥🚀
+New 🇺🇳 Member
+Kanye Wears 卐
+Will Smith Smiths 🗡️
+Simpsons Ends 💀
+Melee 💥 in Kashmir
+🇷🇺 Invades Again
+🇷🇺 / 🇺🇦 Peace 🕊️
+🇵🇸 Annexation</p>
+<h3 id="mycard">My card</h3>
+<p>Just in case, and so I can point to this at the beginning of 2025:
+<img src="https://scribedbystardust.com/img/2024-bingo-card-personal.png" alt="" /></p>]]></description><link>https://joshuaa.dev/blog/2024-bingo</link><guid isPermaLink="true">https://joshuaa.dev/blog/2024-bingo</guid><dc:creator><![CDATA[Joshua Anderson]]></dc:creator><pubDate>Fri, 05 Jan 2024 23:31:10 GMT</pubDate></item><item><title><![CDATA[The Univocal Lie]]></title><description><![CDATA[<p>"Scripture interprets scripture"<a href="#sources">1</a> is a popular claim in American Evangelical circles. It is also a lie. It's based on an assumption called univocality, which is very commonly made, but promotes an understanding of the texts that comprise the bible that goes against how the texts were intended by their authors, and denies them their own voices, in favor of centering the cultural biases of those doing the harmonizing.</p>
+<h2 id="whatisunivocality">What is univocality?</h2>
+<p>I'll let biblical scholar Dan McClellan define univocality:</p>
+<blockquote>
+  <p>Univocality means a single voice. It is the dogma that holds that the scriptures (Bible or Quran), as the inerrant and/or inspired word of God, represent God’s consistent and unified position and message. It does not contradict itself.<a href="#sources">2</a></p>
+</blockquote>
+<h2 id="problemswithunivocality">Problems with univocality</h2>
+<p>Univocality smuggles in a lot of assumptions, each of which could easily have entire books written about them. Here's a few.</p>
+<h3 id="biblicaltextsdisagreewitheachother">Biblical texts disagree with each other</h3>
+<p>This happens all of the time. There are no shortage of Biblical accounts that describe events or values in ways that seem contradictory on face.</p>
+<p>For example, Judas is described as having died from hanging in the book of <a href="https://www.bibleref.com/Matthew/27/Matthew-27-5.html">Matthew</a>. In The book of Acts<a href="#sources">4</a>, he instead fell, and exploded.</p>
+<p>Many other examples of disagreements can be found in the scriptures. I'm not going to list them. Instead, let's look at the options we have for trying to resolve contradictions.</p>
+<h4 id="harmonizingaccounts">Harmonizing accounts</h4>
+<p>In many settings, from courtroom dramas to memoirs, we have accounts that slightly (or drastically) disagree, even about recent events. You might have a murder be seen by two eyewitnesses, one of whom claims to have seen a blond man shoot the victim, and one who swears that the murderer had red hair.</p>
+<p>If you are ideologically pre-committed to the factuality of all accounts, you can <strong>always</strong> harmonize them if you try hard enough. The man could have had red hair on one side of his head, and blond on another. He could have put on a wig in between gun shots, or realized that his first shot wasn't lethal, called a fellow criminal, and another man delivered the killing blow.</p>
+<p>Even if you add other witnesses claiming very different combinations of stories (the murderer used a knife, there were three victims instead of one, the murderer had highly visible neon clothing), you can always harmonize accounts, if you are willing to try hard enough.</p>
+<h4 id="holdingaccountsintension">Holding accounts in tension</h4>
+<p>However, a better thing to do when dealing with contradictory accounts of an event is to hold them in tension. This doesn't mean that the accounts can't be different viewpoints of the same event (maybe there really were two murderers, and smoking bullet casings could be found in different locations).</p>
+<p>But not all contradictory events should be harmonized, just because they can be. A sequence of implausible harmonizations of events is just that - implausible, even if technically possible.</p>
+<h4 id="backtojudas">Back to Judas</h4>
+<p>A common narrative to try and harmonize the contradictory accounts of Judas's death is to say that both accounts happened. Luke simply neglected to mention the hanging, and Matthew just wasn't interested in the grotesque explosion. Instead, Judas presumably hung himself, rotted for a week or two, and then dropped from the rope and exploded.<a href="https://answersingenesis.org/contradictions-in-the-bible/how-did-judas-die/">5</a></p>
+<p>This is possible, but implausible, and a modern attempt to harmonize an event with multiple competing narratives early in the Chistian community's history. Papias, a Greek church father who lived ~ 60 CE - 130 CE, gives two completely different accounts that both disagree with Luke and Matthew, saying that Judas had his body swell up grotesquely, urinating pus and worms, until his head was so swollen that he couldn't fit through a thoroughfare intended for wagons. After he died, "to this day no one can pass that place [where he died] unless they hold their nose, so great was the discharge from his body."<a href="#sources">6</a></p>
+<p>That's obviously not the same story that Matthew is telling (although it may be a drastically more lurid version of Luke's).</p>
+<h3 id="polyvocality">Polyvocality</h3>
+<p>Regardless of if you view the texts of the Bible as divinely inspired, or just texts, univocality is an assumption that does not allow authors to say what they are trying to. Rather, it forces you to subbordinate some authors to others.</p>
+<p>This has the practical effect of privileging some authors and viewpoints, while marginalizing others. In American Evangelical Christianity, this is frequently done by centralizing teachings from Paul (and perhaps especially the pseudo-Pauline letters in the New Testament) at the expense of the more social-justice oriented prophets, or the strict concern for the law of the Priestly texts.</p>
+<p>I would argue that a more honest understanding is to let authors say what they wish, and to live with the contradictions that follow however you would like.</p>
+<p>Paul believes in celibacy (and maybe monogomy, but it's better not to). Song of Solomon celebrates love outside of a socially sanctioned relationship (quite graphically).</p>
+<p>John believes in one god. Much of the old testament implicitly recognizes a pantheon, and places Yahweh in a more-or-less privileged place amongst them. One of the more explicit recognitions of this is <a href="https://app.logos.com/books/LLS%3A1.0.710/references/bible%2Besv.19.82.2?registration_source_host=biblia.com&tile=left&zzls=2eMKcTcKNwrEOw4IwEEPDv8OFc8KlwqprNgQrE2zChMKhasKvw61JScKuJMOXIhTDpcOfCcKdw5jCrGfDmS9jwqfCmFgCTMOXYMOtA8K5w5PCusKew4XDuz7CjAnDpsKRK8OUJcO0wp5gw5DCqsKIS20QwqXChAbCr8KNw6IHJsOjAMO3w5rDnUjClcODXMKHw4gWScKiWhgLLyNPTMOjwoXDkmDDkVjDrEzDr8Krwox0wrTDk8OmwpxFwqnCh8OKw67Cp8KJPC%2FCilLCmsKMflDDnivDk8K4w5HCn3DCjSzCkcK1w6bCrsKUZ8O5AgrDoEXCiQ%3D%3D">Psalm 82</a>, which features Yahweh as passing judgement over a high council of deities (replacing the Semitic high deity El by seizing his traditional role, and promoting Yahweh in his stead).</p>
+<p>Paul believes in faith that counts for righteousness. James disagrees, and says it is works that play that role, even using the same passage to illustrate his point (likely in direct response to Paul).</p>
+<p>It is neither helpful nor intellectually honest to insist that all authors, facts, and viewpoints in the bible harmonize, any more than it would be to attempt to harmonize the sayings of Gandhi with Winston Churchhill and Conan the Barbarian.</p>
+<h3 id="sources">Sources</h3>
+<p><a href="https://www.christianitytoday.com/ct/2022/february-web-only/bible-reference-tool-old-testament-scripture-interpretation.html">1</a> Christianity Today, 2022</p>
+<p>[2]Dan McClellan, "On The Myth of Scriptural Literalism", (https://danielomcclellan.wordpress.com/tag/univocal/)</p>
+<p>[3] Matthew 27:5-8</p>
+<p>[4] Acts 1:18-19</p>
+<p>[5] Answers in Genesis, "How Did Judas Die?" https://answersingenesis.org/contradictions-in-the-bible/how-did-judas-die/</p>
+<p>[6] Moss, C 2019, 'A note on the death of Judas in Papias', New Testament Studies, vol. 65, no. 3, pp. 388-397.
+https://doi.org/10.1017/S0028688519000080 https://pure-oai.bham.ac.uk/ws/files/77433625/Moss<em>A</em>note<em>on</em>the<em>death</em>of<em>Judas</em>in<em>Papias</em>New<em>Testament</em>Studies_2019.pdf</p>
+<p>[7] <a href="https://app.logos.com/books/LLS%3A1.0.710/references/bible%2Besv.19.82.2?registration_source_host=biblia.com&tile=left&zzls=2eMKcTcKNwrEOw4IwEEPDv8OFc8KlwqprNgQrE2zChMKhasKvw61JScKuJMOXIhTDpcOfCcKdw5jCrGfDmS9jwqfCmFgCTMOXYMOtA8K5w5PCusKew4XDuz7CjAnDpsKRK8OUJcO0wp5gw5DCqsKIS20QwqXChAbCr8KNw6IHJsOjAMO3w5rDnUjClcODXMKHw4gWScKiWhgLLyNPTMOjwoXDkmDDkVjDrEzDr8Krwox0wrTDk8OmwpxFwqnCh8OKw67Cp8KJPC%2FCilLCmsKMflDDnivDk8K4w5HCn3DCjSzCkcK1w6bCrsKUZ8O5AgrDoEXCiQ%3D%3D">Psalm 82</a></p>]]></description><link>https://joshuaa.dev/blog/the-univocal-lie</link><guid isPermaLink="true">https://joshuaa.dev/blog/the-univocal-lie</guid><dc:creator><![CDATA[Joshua Anderson]]></dc:creator><pubDate>Thu, 21 Dec 2023 23:38:36 GMT</pubDate></item><item><title><![CDATA[A Gaiapunk Manifesto]]></title><description><![CDATA[<h2 id="gaiapunk">Gaiapunk</h2>
 <p>Gaiapunk is an aesthetic of human flourishing for a world that is adrift. In perilous times, new, positive visions of the future are needed.
 Gaiapunk is unapologetically pro-human, egalitarian, and optimistic.</p>
 <h2 id="weholdthesethingstobeworthstrivingfor">We hold these things to be worth striving for:</h2>
