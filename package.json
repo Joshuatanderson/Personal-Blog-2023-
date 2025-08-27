@@ -32,6 +32,7 @@
         "export": "next export"
     },
     "dependencies": {
+        "@supabase/supabase-js": "^2.56.0",
         "@types/glob": "^8.1.0",
         "fecha": "^4.2.3",
         "fs": "^0.0.1-security",
