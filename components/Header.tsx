@@ -1,6 +1,6 @@
 import React from 'react'
 import { globals } from '../globals'
-import { GitHub, Linkedin, Moon, Sun } from 'react-feather'
+import { Github, Linkedin, Moon, Sun } from 'lucide-react'
 import ThemeContext from '../contexts/theme/ThemeContext'
 
 export const Header: React.FC = () => {
@@ -16,7 +16,7 @@ export const Header: React.FC = () => {
                 href="https://github.com/Joshuatanderson?tab=repositories"
                 alt-text="github"
             >
-                <GitHub />
+                <Github />
             </a>
             <a
                 href="https://www.linkedin.com/in/joshua-anderson-cantaloupe/"

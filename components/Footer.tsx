@@ -1,6 +1,6 @@
 import React from 'react'
 import { globals } from '../globals'
-import { Rss } from 'react-feather'
+import { Rss } from 'lucide-react'
 
 export const Footer: React.FC = () => (
     <div className="footer">
