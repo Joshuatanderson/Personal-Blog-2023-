@@ -19,7 +19,7 @@ export const Header: React.FC = () => {
                 <GitHub />
             </a>
             <a
-                href="https://www.linkedin.com/in/joshua-anderson-mba-2aab9b89/"
+                href="https://www.linkedin.com/in/joshua-anderson-cantaloupe/"
                 alt-text="linkedin"
             >
                 <Linkedin />

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Scribed by Stardust]]></title><description><![CDATA[I write about research rabbit holes]]></description><link>https://joshuaa.dev</link><image><url>https://joshuaa.dev/icon.png</url><title>Scribed by Stardust</title><link>https://joshuaa.dev</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 02 Mar 2025 22:57:51 GMT</lastBuildDate><atom:link href="https://joshuaa.dev/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 23 Jul 2023 05:00:00 GMT</pubDate><copyright><![CDATA[2025 Joshua Anderson]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[joshuatanderson1@gmail.com]]></managingEditor><webMaster><![CDATA[joshuatanderson1@gmail.com]]></webMaster><ttl>60</ttl><item><title><![CDATA[Building my first MCP project]]></title><description><![CDATA[<h1 id="ibuiltanmcpprojectheresmythoughts">I built an MCP project - here's my thoughts</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Scribed by Stardust]]></title><description><![CDATA[I write about research rabbit holes]]></description><link>https://joshuaa.dev</link><image><url>https://joshuaa.dev/icon.png</url><title>Scribed by Stardust</title><link>https://joshuaa.dev</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 27 Aug 2025 01:22:56 GMT</lastBuildDate><atom:link href="https://joshuaa.dev/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 23 Jul 2023 06:00:00 GMT</pubDate><copyright><![CDATA[2025 Joshua Anderson]]></copyright><language><![CDATA[en]]></language><managingEditor><![CDATA[joshuatanderson1@gmail.com]]></managingEditor><webMaster><![CDATA[joshuatanderson1@gmail.com]]></webMaster><ttl>60</ttl><item><title><![CDATA[Building my first MCP project]]></title><description><![CDATA[<h1 id="ibuiltanmcpprojectheresmythoughts">I built an MCP project - here's my thoughts</h1>
 <h2 id="whatsmcp">What's MCP?</h2>
 <p><a href="https://www.anthropic.com/news/model-context-protocol">The Model Context Protocol</a> is Anthropic's way of allowing models to have agentic capabilities. You can create an action (only bounded by your creativity) and then have the model execute it.</p>
 <p>This is a way to standardize the interactions between a model and a given capability, so that interoperability is fairly painless.</p>
@@ -43,8 +43,63 @@
 <h2 id="thismostlyassumesthatyoureawareofthetragedyofthecommons">This mostly assumes that you're aware of the tragedy of the commons.</h2>
 <p>But if not, here's the quick version. If you have your own property, like a garden, you are fairly likely to plant food, pick weeds, and wait until the fruits are (more or less) ripe before eating them.
 However, if you picture the exact same garden in the middle of times square, with a sign that says "treat this like it's your own," you can be highly confident that someone will take any semi-ripe fruit, likely no one will pick weeds, and the garden will quickly be filled by cigarette butts and litter.</p>
-<h2 id="hereswhatthatlookslikeintherealworld">Here's what that looks like in the real world</h2>
-<p><img src="/img/tragedy_commons_sheep.jpg" alt="A photo of a garden in the middle of times square" /></p>]]></description><link>https://joshuaa.dev/blog/dodge-the-tragedy-of-the-commons</link><guid isPermaLink="true">https://joshuaa.dev/blog/dodge-the-tragedy-of-the-commons</guid><dc:creator><![CDATA[Joshua Anderson]]></dc:creator><pubDate>Fri, 27 Dec 2024 22:22:57 GMT</pubDate></item><item><title><![CDATA[2024 Bingo Cards]]></title><description><![CDATA[<h1 id="imade2024bingocards">I made 2024 Bingo Cards</h1>
+<h2 id="examples">Examples</h2>
+<p>In the real world, the classic example, as shown in the title image, is over-grazing. If no one is incentivised to take care of the field, and everyone benefits from letting their sheep eat the grass, you'll quickly end up with a field full of dust and a few sad sheep. Similar dynamics play out in fisheries, where everyone is incentivised to catch one more fish, and logging, where the ancient trees of Europe and America were historically cut down just to make a few planks.
+Here's some more <a href="https://en.wikipedia.org/wiki/Tragedy_of_the_commons">examples</a>.</p>
+<h2 id="exceptions">Exceptions</h2>
+<p>Some of the most important issues of our day are largely examples of the tragedy of the commons. Ecological collapse, reckless AI development, and misinformation are all modern examples of this issue worsening by the day. Coordinating 8 billion humans is hard, even when our interests are aligned. A lot of ink has been spilt on the topic. Rather than trying to exhaustively cover this, I'd like to shift the conversation to some examples of how, as a species, we might have a way out.</p>
+<h2 id="elinorostromandhowilearnedsomethingnewtoday">Elinor Ostrom (and how I learned something new today)</h2>
+<p>When I went down a bit of a rabbit hole on the topic of the commons, I was surprised to learn that Nobel prize winning economist Elinor Ostrom had already considered a lot of the same hard questions. (btw, any factual references on Ostrom, unless otherwise stated, are from <a href="https://en.wikipedia.org/wiki/Elinor_Ostrom#Ostrom's_law">this page</a>.)</p>
+<p>Ostrom basically went out into the wild, and found examples from Maine to Nepal of people who were avoiding the textbook trap of the tragedy of the commons.</p>
+<p>Long story short, that led to something called, quite appropriately, Ostrom's law.</p>
+<blockquote>
+  <p>A resource arrangement that works in practice can work in theory. - Elinor Ostrom never said this, as far as I can tell, but it's a concise summary of her work.</p>
+</blockquote>
+<p>In other words, if a resource arrangement works in practice, it's probably not a tragedy of the commons.</p>
+<p>There seem to be a few common traits in the examples of commons which avoid tragedy:</p>
+<ul>
+<li><p>Well-defined boundaries</p>
+<ul>
+<li>The US national park system (well, at least up till recently, perhaps) is a great example of this</li>
+<li>There is a very well defined boundary between private lands, and the park</li>
+<li>Inside the park, there are strict rules on if you can be there, what terms you can be there on, and if you are allowed to take anything like rocks, plants, or animals out of the park</li></ul></li>
+<li><p>Resource rules need to match the local context</p>
+<ul>
+<li>An example of this being done poorly is in California</li>
+<li>In parts of the state, the water table has dropped by hundreds of feet</li>
+<li>However, there are also companies like Nestle which as recently as 2017, <a href="https://www.theguardian.com/us-news/2021/apr/27/california-nestle-water-san-bernardino-forest-drought">pulled 10's of millions of gallons of water out of the ground</a></li></ul></li>
+<li><p>Participatory governance</p>
+<ul>
+<li>When people make the rules that govern the commons they use, the rules tend to work better</li></ul></li>
+<li><p>Monitoring</p>
+<ul>
+<li>This one just sort of makes sense</li>
+<li>If no one is even observing if the rules are followed or not, they are fairly unlikely to be followed</li></ul></li>
+<li><p>Enforcement with levels</p>
+<ul>
+<li>Rules must be enforced - but not every rules breach deserves the same punishment</li>
+<li>Someone deliberately dumping industrial levels of arsenic into a lake is fairly different than someone catching a fish from the same lake that is 1 inch smaller than the size limit</li></ul></li>
+<li><p>Local conflict-resolution</p>
+<ul>
+<li>If there are disputes between people removing resources from the commons, and their representatives enforcing the rules, those should be resolved quickly, and cheaply</li>
+<li>Think less protracted legal battles with lawyers and federal courts, more going to a trusted village elder who is viewed as impartial, knows both parties, and helped make the rules that are being debated</li></ul></li>
+<li><p>Ability to self-govern</p>
+<ul>
+<li>This relies on a sort of benign neglect</li>
+<li>An example of this is native communities in the US or Canada that are given de-facto ability to make rules about how to govern the use of their own flora or fauna</li>
+<li>If the federal government decides to override a local rule, you end up losing out on most of the traits of real-world well-managed commons</li></ul></li>
+<li><p>Matroyshka doll structure (most local governance possible takes priority)</p>
+<ul>
+<li>Of course, the real world isn't just a group of 200 people</li>
+<li>Real-world commons, if well-managed, frequently have more than one layer of governance</li>
+<li>A lake might be managed by a local council</li>
+<li>But the larger region may have separate issues</li>
+<li>Any decision that is possible to make at the local level should be made there</li>
+<li>But for questions about the entire river, the same principle applies - the people invested in the river should make the rules</li>
+<li>This principle continues to apply (at least in theory) all the way up to the global level</li></ul></li>
+</ul>
+<p>That's it for now! The tragedy of the commons isn't dead. But it's <em>extremely</em> important to note that it isn't invincible.</p>
+<p>Ostrom's Nobel prize wasn't just given as a paperweight. It's worth applying her work to slay some of the giant coordination problems of our era, and she's given us a playbook that seems significantly better than our current methods.</p>]]></description><link>https://joshuaa.dev/blog/dodge-the-tragedy-of-the-commons</link><guid isPermaLink="true">https://joshuaa.dev/blog/dodge-the-tragedy-of-the-commons</guid><dc:creator><![CDATA[Joshua Anderson]]></dc:creator><pubDate>Fri, 27 Dec 2024 22:22:57 GMT</pubDate></item><item><title><![CDATA[2024 Bingo Cards]]></title><description><![CDATA[<h1 id="imade2024bingocards">I made 2024 Bingo Cards</h1>
 <p><a href="https://www.canva.com/design/DAF3W51c8sk/1xS5xaLYsa5zDiSiXU8STQ/edit?utm_content=DAF3W51c8sk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">The Cards.</a></p>
 <p>Now is the time to make your cards, and hope we don't get a bingo blackout on 2024.</p>
 <p>If you want some, grab some. I'm sharing my template here. Feel free to copy, steal, or fork this in any way you like.</p>
