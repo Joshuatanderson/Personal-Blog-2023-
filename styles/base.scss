@@ -382,6 +382,11 @@ hr {
     flex-direction: row;
     justify-content: center;
     height: 300px;
+    transition: transform 0.3s ease;
+    
+    &:hover {
+        transform: translateY(-8px);
+    }
 }
 
 .post-card-inner {
